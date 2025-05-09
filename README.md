@@ -1,1 +1,1 @@
-bleh
+docker-compose up --build
